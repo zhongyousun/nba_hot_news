@@ -1,3 +1,4 @@
+APScheduler==3.6.0
 beautifulsoup4==4.7.1
 bs4==0.0.1
 certifi==2019.6.16
@@ -13,8 +14,10 @@ idna==2.8
 psycopg2==2.8.3
 pytz==2019.1
 requests==2.22.0
+six==1.12.0
 soupsieve==1.9.2
 sqlparse==0.3.0
 static3==0.7.0
+tzlocal==1.5.1
 urllib3==1.25.3
 whitenoise==4.1.2
